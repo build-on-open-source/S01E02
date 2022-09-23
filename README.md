@@ -2,7 +2,7 @@
 
 Code samples and other resources from the Build on [AWS Open Source episode, S01E02](). This episode featured the AWS open source newsletters [125](https://dev.to/aws/aws-open-source-news-and-updates-125-ein) and [126](https://dev.to/aws/aws-open-source-news-and-updates-125-ein)
 
-<add link to video>
+See replay here : https://youtu.be/_ZtJuhiS7p4
 
 ## Special Guest Ian McKay 
 Ian is an AWS Community Hero and APN Ambassador working in Sydney as the Cloud Principal at Kablamo, a cloud product development and data consultancy specializing in building applications native to the AWS cloud. He is usually focused on cloud architecture, CI/CD and security, but is always trying out the latest AWS services. He also previously managed infrastructure at Stan, an Australian streaming service.
